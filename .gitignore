@@ -26,4 +26,5 @@ hs_err_pid*
 .idea/
 META-INF/
 *.iml
+target/
 .DS_Store
